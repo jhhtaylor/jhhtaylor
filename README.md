@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on stabilizing the De Beers Botswana's<br>Sales Planning System Portal with Entelect Software South Africa<br>🌱 I am currently learning for my Azure Developer Associate<br>💭 Ask me about Automated API Testing in Postman<br>⚡In November 2022, I visited De Beers in Botswana with my team!
+🔭 I am currently working on stabilizing the De Beers Botswana's<br>Sales Planning System Portal with Entelect Software South Africa<br>🌱 I am currently studying Design Patterns over at Refactoring Guru <br>💭 Ask me about my thoughts on AI usage for developers <br>⚡In November 2022, I visited De Beers in Botswana with my team!
 
 
 ## 🌐 Socials:
