@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on stabilizing the De Beers Botswana's<br>Sales Planning System Portal with Entelect Software South Africa<br>🌱 I am currently upskilling on Angular ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+🔭 I am currently working on stabilizing the De Beers Botswana's<br>Sales Planning System Portal with Entelect Software South Africa<br>🌱 I am currently upskilling on ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
  <br>💭 Ask me about my thoughts on AI usage for developers <br>⚡In November 2022, I visited De Beers in Botswana with my team!
 
 
