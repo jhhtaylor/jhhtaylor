@@ -1,7 +1,27 @@
 # 💫 About Me:
-🔭 I am currently working on stabilizing the De Beers Botswana's<br>Sales Planning System Portal with Entelect Software South Africa<br>🌱 I am currently upskilling on ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
- <br>💭 Ask me about my thoughts on AI usage for developers <br>⚡In November 2022, I visited De Beers in Botswana with my team!
 
+👋🏻 Hi, I’m **Jon Taylor** — a Software Engineer with 3+ years of experience, currently at **The Craneware Group**.
+
+🧠 I specialize in **C# .NET**, **JavaScript**, **MS SQL**, and **Azure**, building high-performance applications in the **medical and insurance** space.
+
+💼 **Previously at Entelect**, I worked on impactful projects for:
+- 💎 **De Beers Diamonds** – Enhanced legacy systems and built predictive features for diamond demand. Implemented **RabbitMQ**, **SignalR**, and dynamic **React** interfaces.
+- 🏦 **Standard Bank** – Led front-end development for a greenfield **Angular + TypeScript** project, laying the groundwork for a scalable enterprise app.
+
+🌱 Currently upskilling on ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) and exploring how AI can empower developers.
+
+💡 **Passion Projects:**
+- 🚀 [Tabstronaut](https://github.com/jhhtaylor/tabstronaut) – VS Code extension for tab management. 🥇 1st place in the Entelect Tech Accelerator.
+- 🤖 [LDPC Deep Learning Project](https://drive.google.com/file/d/164qCd-4T5nT_fK7WOB7VX9Pg-xsBQGyI/view) – Designed a deep learning model to decode LDPC codes and improve error rates.
+
+🎓 BSc in Electrical Engineering from **Wits University**  
+☁️ Certified in **Microsoft Azure** and **AWS**  
+🏃‍♂️ Ran my first marathon — the **Joburg North City Marathon** — after 18 weeks of training!
+
+💬 Ask me about:
+- AI for devs 🤖
+- Building resilient full-stack systems 🔧
+- How to survive your first marathon 🏁
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jhhtaylor) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jhhtaylor) [![itch.io](https://img.shields.io/badge/itch.io-%23FA5C5C.svg?logo=itch.io&logoColor=white)](https://eminencegrise.itch.io/)
