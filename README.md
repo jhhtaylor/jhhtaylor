@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👋🏻 Hi, I’m **Jon Taylor** — a Software Engineer with 3+ years of experience, currently at **The Craneware Group**.
+👋🏻 Hi, I’m **Jon Taylor** — a Software Engineer currently at **The Craneware Group**.
 
 🧠 I specialize in **C# .NET**, **JavaScript**, **MS SQL**, and **Azure**, building high-performance applications in the **medical and insurance** space.
 
