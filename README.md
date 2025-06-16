@@ -11,10 +11,10 @@
 🌱 Currently upskilling on ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) and exploring how AI can empower developers.
 
 💡 **Passion Projects:**
-- 🚀 [Tabstronaut](https://github.com/jhhtaylor/tabstronaut) – VS Code extension for tab management. 🥇 1st place in the Entelect Tech Accelerator.
+- 🚀 [Tabstronaut](https://github.com/jhhtaylor/tabstronaut) – VS Code extension for tab management. 🥇 4th place overall in the Entelect Tech Accelerator.
 - 🤖 [LDPC Deep Learning Project](https://drive.google.com/file/d/164qCd-4T5nT_fK7WOB7VX9Pg-xsBQGyI/view) – Designed a deep learning model to decode LDPC codes and improve error rates.
 
-🎓 BSc in Electrical Engineering from **Wits University**  
+🎓 BSc in Electrical & Information Engineering from **Wits University**  
 ☁️ Certified in **Microsoft Azure** and **AWS**  
 🏃‍♂️ Ran my first marathon — the **Joburg North City Marathon** — after 18 weeks of training!
 
