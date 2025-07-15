@@ -1,22 +1,22 @@
 # 💫 About Me:
 
-👋🏻 Hi, I’m **Jon Taylor** — a Software Engineer currently at **The Craneware Group**.
+👋🏻 Hi, I’m **Jon Taylor** - a Software Engineer currently at **The Craneware Group**.
 
 🧠 I specialize in **C# .NET**, **JavaScript**, **MS SQL**, and **Azure**, building high-performance applications in the **medical and insurance** space.
 
 💼 **Previously at Entelect**, I worked on impactful projects for:
-- 💎 **De Beers Diamonds** – Enhanced legacy systems and built predictive features for diamond demand. Implemented **RabbitMQ**, **SignalR**, and dynamic **React** interfaces.
-- 🏦 **Standard Bank** – Led front-end development for a greenfield **Angular + TypeScript** project, laying the groundwork for a scalable enterprise app.
+- 💎 **De Beers Diamonds** - Enhanced legacy systems and built predictive features for diamond demand. Implemented **RabbitMQ**, **SignalR**, and dynamic **React** interfaces.
+- 🏦 **Standard Bank** - Led front-end development for a greenfield **Angular + TypeScript** project, laying the groundwork for a scalable enterprise app.
 
 🌱 Currently upskilling on ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) and exploring how AI can empower developers.
 
 💡 **Passion Projects:**
-- 🚀 [Tabstronaut](https://github.com/jhhtaylor/tabstronaut) – VS Code extension for tab management. 🥇 4th place overall in the Entelect Tech Accelerator.
-- 🤖 [LDPC Deep Learning Project](https://drive.google.com/file/d/164qCd-4T5nT_fK7WOB7VX9Pg-xsBQGyI/view) – Designed a deep learning model to decode LDPC codes and improve error rates.
+- 🚀 [Tabstronaut](https://github.com/jhhtaylor/tabstronaut) - VS Code extension for tab management. 🥇 4th place overall in the Entelect Tech Accelerator.
+- 🤖 [LDPC Deep Learning Project](https://drive.google.com/file/d/164qCd-4T5nT_fK7WOB7VX9Pg-xsBQGyI/view) - Designed a deep learning model to decode LDPC codes and improve error rates.
 
 🎓 BSc in Electrical & Information Engineering from **Wits University**  
 ☁️ Certified in **Microsoft Azure** and **AWS**  
-🏃‍♂️ Ran my first marathon — the **Joburg North City Marathon** — after 18 weeks of training!
+🏃‍♂️ Ran my first marathon - the **Joburg North City Marathon** - after 18 weeks of training!
 
 💬 Ask me about:
 - AI for devs 🤖
