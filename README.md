@@ -2,7 +2,7 @@
 
 👋🏻 Hi, I’m **Jon Taylor** - a Software Engineer currently at **The Craneware Group**.
 
-🧠 I specialize in **C# .NET**, **JavaScript**, **MS SQL**, and **Azure**, building high-performance applications in the **medical and insurance** space.
+🧠 I specialize in **C# .NET**, **JavaScript**, **MS SQL**, and **Azure**, building high-performance applications in the **medical** space.
 
 💼 **Previously at Entelect**, I worked on impactful projects for:
 - 💎 **De Beers Diamonds** - Enhanced legacy systems and built predictive features for diamond demand. Implemented **RabbitMQ**, **SignalR**, and dynamic **React** interfaces.
